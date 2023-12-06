@@ -6,4 +6,4 @@ navigation:
   - title: Example
     url: example
   - title: Lockdown Intensity
-    url: example
+    url: lockdown_intensity
