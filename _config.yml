@@ -3,7 +3,5 @@ title: Video games during Covid lockdown
 description: Analysis of the evolution of interest in video games during the covid period
 show_downloads: True
 navigation:
-  - title: Home
-    url: /
   - title: Example
     url: example
