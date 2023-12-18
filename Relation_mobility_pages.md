@@ -9,7 +9,7 @@ First, to be able to analyze the relationship between mobility and attention tow
 \n
 The plot below present the average mobility between the 2020-02-15 and the 2020-08-25	for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. We also have differents line that present important dates of this period.   
 
-![Branching](https://github.com/corentinplumet/ada-template-website/blob/master/mobility_pattern.png)
+![Branching](mobility_pattern.png)
 
 Thus, we can see that for most of the country, the start of the lockdown was really break in the mobility pattern. Indeed, if we take France as an exmaple, the mobility decreased by around 70% after the beginning of the lockdown. However, some countries like Japan the decrease is less likely noticeable.
 \n 
