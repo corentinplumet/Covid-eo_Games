@@ -38,4 +38,4 @@ The countries with which we chose to do the analysis speak a language that is ma
 
 The following figure shows therefore the percentage of wikipedia pageviews related to video games in the same countries we have in the mobility part.
 
-![Branching](mobility.png)
+![Branching](pageviews.png)
