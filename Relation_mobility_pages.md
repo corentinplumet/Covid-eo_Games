@@ -16,3 +16,7 @@ Thus, we can see that for most of the country, the start of the lockdown was rea
 Therefore, if we want to see if the mobility change has an impact on the attention towards videogames, can't consider all the countries has one group but we need to group them according to thir "lockdown Intensity".
 
 # Clustering countries
+
+The signal of the mobility patterns is very noisy and to be able to grouped them into different cluster we can first smooth the curves by using a polynomial approximation.
+
+![Branching](mobility_pattern_smoothed.png)
