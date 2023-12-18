@@ -20,3 +20,10 @@ Therefore, if we want to see if the mobility change has an impact on the attenti
 The signal of the mobility patterns is very noisy and to be able to grouped them into different cluster we can first smooth the curves by using a polynomial approximation.
 
 ![Branching](mobility_pattern_smoothed.png)
+
+Thanks to these new smoothed curves, we can group the countries into 3 different categories of lockdown intensity: very restrictive, restrictive and unrestrictive.
+
+![Branching](countries_cluster.png)
+
+
+
