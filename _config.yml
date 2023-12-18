@@ -4,7 +4,7 @@ description: Analysis of the evolution of interest in video games during the cov
 show_downloads: True
 navigation:
   - title: Relationship between mobility patterns and traffic of video game Wikipedia pages.
-    url: Relationship between mobility patterns and traffic of video game Wikipedia pages
+    url: Relation_mobility_pages
   - title: Example
     url: example
   
