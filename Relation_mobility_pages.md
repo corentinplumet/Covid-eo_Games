@@ -39,3 +39,7 @@ The countries with which we chose to do the analysis speak a language that is ma
 The following figure shows therefore the percentage of wikipedia pageviews related to video games in the same countries we have in the mobility part.
 
 ![Branching](pageviews.png)
+
+We can see that after the beginning of the lockdown it seems that certain countries experienced a rise in the attention toward video games. To have a better understanding of these curves, we can group them following the clustering we did previously in the mobility context.
+
+![Branching](pageviews_cluster.png)
