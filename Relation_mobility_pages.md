@@ -43,6 +43,8 @@ We can see that after the mobility drop, it seems that certain countries experie
 
 ![Branching](pageviews_cluster.png)
 
+## Correlation ?
+
 If we plot the pageviews change percentage during 2 periods: approximately 2 months before the change in mobility and the lockdown period for each country, we get the following graph:
 
 ![Branching](change_in_attention_plot.png)
