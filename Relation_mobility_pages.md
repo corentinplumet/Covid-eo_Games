@@ -62,6 +62,7 @@ What is interesting with this graph is that we can note that the countries with 
 
 Therefore, overall, 2 conclusions can be drawn from this analysis. First, the amount of decrease in mobility, and so the intensity of lockdown is indeed a factor of the attention shift towards videogames: the less the people are moving, the more they spend time playing videogames and doing research about it. The second statement is that, the first one doesn't include Scandinavian countries. These countries may have experienced an increase in videogames research proportionnally speaking, but it's not related to the mobility. 
 
-<iframe src="plotly_graph.html" width="800" height="600"></iframe>
-
 However, we need to be aware of the limit of these conclusions. What we found is a correlation relation, not causiation one. It means that even if it seems like the drop in mobility may be the cause of the attention increase towards video games, maybe an other factor linked to the covid-19 that drives the increase in attetion.
+
+<iframe src="plotly_graph.html" width="400" height="400"></iframe>
+
