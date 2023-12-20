@@ -66,6 +66,6 @@ However, we need to be aware of the limit of these conclusions. What we found is
 
 <iframe
   src="output.html"
-  style="width:100%; height:500%;"
+  style="width:400px; height:475px;"
 ></iframe>
 
