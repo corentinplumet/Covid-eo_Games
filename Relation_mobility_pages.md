@@ -64,5 +64,5 @@ Therefore, overall, 2 conclusions can be drawn from this analysis. First, the am
 
 However, we need to be aware of the limit of these conclusions. What we found is a correlation relation, not causiation one. It means that even if it seems like the drop in mobility may be the cause of the attention increase towards video games, maybe an other factor linked to the covid-19 that drives the increase in attetion.
 
-<iframe src="plotly_graph (1).html" width="400" height="400"></iframe>
+<iframe src="plotly_graph (1).html" width="1050" height="1100"></iframe>
 
