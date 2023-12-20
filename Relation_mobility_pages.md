@@ -2,7 +2,9 @@
 layout: default
 ---
 
-In this part we will analyze the mobility change of each country during in the begeinning the year 2020 and the , which corresponds to the Covid-19 period and the first lockdown in most of the countries around the world.
+# Mobility and overall video games interest: a relation ?
+
+In this part we will analyze the mobility change of each country during the Covid_19 period. This corresponds to the interval between january 2020 and august 2020, during which happend the first lockdown in most of the countries around the world.
 
 # Mobility pattern
 First, to be able to analyze the relationship between mobility and attention towards videogame, we need first to get the mobility data for different country.
