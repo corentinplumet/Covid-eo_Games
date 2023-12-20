@@ -2,21 +2,28 @@
 layout: default
 ---
 
-# Mobility and overall video games interest: a relation ?
+# Lockdown and overall video games interest: a relation ?
 
-In this part we will analyze the mobility change of each country during the Covid_19 period. This corresponds to the interval between january 2020 and august 2020, during which happend the first lockdown in most of the countries around the world.
+In this part, we are going to discuss about the relation (or not) between the different type of lockdown around the world, and their possible impact on people's interest for video games.
 
-# Mobility pattern
-First, to be able to analyze the relationship between mobility and attention towards videogame, we need first to get the mobility data for different country.
-\n
-The plot below present the average mobility between the 2020-02-15 and the 2020-08-25	for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. We also have differents line that present important dates of this period.   
+To measure people's interest towards video games we will use the Wikipedia pageviews. Indeed, Wikipedia being the largest and most popular encyclopedia in the world, the pageviews of the website are a good metric to know what people are searching for and thus, are interested in.
 
-![Branching](mobility_pattern.png)
+To categorize the lockdown of diiferent country, we will use the reported mobility of google from January 2020 until August 2020. We state that the highest the decrease in mobility, the more strict the lockdown is. 
 
-Thus, we can see that for most of the country, the start of the lockdown was really break in the mobility pattern. Indeed, if we take France as an exmaple, the mobility decreased by around 70% after the beginning of the lockdown. However, some countries like Japan the decrease is less likely noticeable.
+The countries we choose to analyze are countries were their first language is mainly spoken only in the country. For example, people speak Swedish only in Sweden. This way we can link a Wikipedia page written in a specific language to a specific country.
 
+## Mobility pattern
 
-Therefore, if we want to see if the mobility change has an impact on the attention towards videogames, can't consider all the countries has one group but we need to group them according to thir "lockdown Intensity".
+The plot below present the moblity evolution between the 2020-02-15 and the 2020-08-25, taking as 0 the mobility on the first day of the interval. We got data for France, Denmark, Germany, Italy, Netehrlands, Norway, Serbia, Sweden, South Korea, Catalonia (Barcelona), Finland and Japan. Also the 2 red lines represent the 2 dates were we can statistically consider a mobility drop and then a normality comeback.   
+
+<iframe
+  src="output.html"
+  height="950"
+  width="900"
+  style="border:none;"
+></iframe>
+
+For most of the countries, the lockdown is really a break in the mobility pattern. Mobility in france for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less likely noticeable. This disparity in moblity change motivate the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
 
 # Clustering countries
 
@@ -66,9 +73,4 @@ Therefore, overall, 2 conclusions can be drawn from this analysis. First, the am
 
 However, we need to be aware of the limit of these conclusions. What we found is a correlation relation, not causiation one. It means that even if it seems like the drop in mobility may be the cause of the attention increase towards video games, maybe an other factor linked to the covid-19 that drives the increase in attetion.
 
-<iframe
-  src="output.html"
-  height="950"
-  width="900"
-  style="border:none;"
-></iframe>
+
