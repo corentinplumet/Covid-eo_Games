@@ -18,24 +18,16 @@ The plot below present the moblity evolution between the 2020-02-15 and the 2020
 
 <iframe
   src="output.html"
-  height="950"
-  width="900"
+  height="750"
+  width="700"
   style="border:none;"
 ></iframe>
 
 For most of the countries, the lockdown is really a break in the mobility pattern. Mobility in france for example, decreases by around 70% after the beginning of the lockdown. However, for some countries like Japan the decrease is less likely noticeable. This disparity in moblity change motivate the clustering of countries. If we want to see if the lockdown had an impact on the attention towards videogames, we can't consider all the countries has one group but we need to group them according to their "lockdown Intensity".
 
-# Clustering countries
-
-The signal of the mobility patterns is very noisy and to be able to grouped them into different cluster we can first smooth the curves by using a polynomial approximation.
-
-![Branching](mobility_pattern_smoothed.png)
-
-Thanks to these new smoothed curves, we can group the countries into 3 different categories of lockdown intensity: very restrictive, restrictive and unrestrictive.
-
 ![Branching](countries_cluster.png)
 
-We can see that there are 3 clear tendancies with very similar pattern. We have that France, Italy, Serbia and Catalonia (Barcelona) have had a huge decrease in mobility.
+There are 3 clear tendancies with very similar pattern. 
 
 # Attention towards video games
 
