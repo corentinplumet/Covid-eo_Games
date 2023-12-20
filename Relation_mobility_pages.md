@@ -10,7 +10,7 @@ To measure people's interest towards video games we will use the Wikipedia pagev
 
 To categorize the lockdown of diiferent country, we will use the reported mobility of google from January 2020 until August 2020. We state that the highest the decrease in mobility, the more strict the lockdown is. 
 
-The countries we choose to analyze are countries were their first language is mainly spoken only in the country. For example, people speak Swedish only in Sweden. This way we can link a Wikipedia page written in a specific language to a specific country.
+The countries with which we chose to do the analysis speak a language that is mainly speaken only in this country. This way we can link accurately Wikipedia page written in a specific language to a specific country. For example, we can assume that only swedish people are using wikipedia pages written in swedish.
 
 ## Mobility pattern
 
@@ -29,19 +29,17 @@ For most of the countries, the lockdown is really a break in the mobility patter
 
 There are 3 clear tendancies with very similar pattern. One group, had a very restrictive lockdown with a minium mobility around 70%-80% of what it was before the lockdown. The second group, had a restrictive lockdown with a minium mobility around 45% of what it was before the lockdown. The last group also experienced a lockdown but it was an unrestrictive one, leading to a small decrease in total mobility. 
 
-# Attention towards video games
+## Attention towards video games
 
-Now that we have grouped the countries thanks to their moblity during the Covid-19 lockdown, we can get a measure of the attention shift towards video games during the same period.
+Now that we have grouped the countries according to their lockdown intensity, we can get the measure of the attention shift towards video games.
 
-The measures we are going to use to have an insight of the population attention towards video games are wikipedia pageviews related top the same topic. During the lockdown, people were most od the time at home, and thus got more free time than usual, which translate into a higher traffic on the wikipedia website overall. That is why it is not the absolute value of the pageviews that interest us in this section, but the percentage of views on video games related pages amongst all the wikipedia traffic.
-
-The countries with which we chose to do the analysis speak a language that is mainly speaken only in this country. This way we can assume accurately that the mobility in a certain country is linked to the views on a page written in the official language of the country. For example, we can assume that only swedish people are using wikipedia pages written in swedish.
+During the lockdown, people were most od the time at home, and thus got more free time than usual, which translate into a higher traffic on the wikipedia website overall. Thus, we are not using the absolute value of the pageviews, but the percentage of views on video games related pages amongst all the wikipedia traffic.
 
 The following figure shows therefore the percentage of wikipedia pageviews related to video games in the same countries we have in the mobility part.
 
 ![Branching](pageviews.png)
 
-We can see that after the beginning of the lockdown it seems that certain countries experienced a rise in the attention toward video games. To have a better understanding of these curves, we can group them following the clustering we did previously in the mobility context.
+We can see that after the mobility drop, it seems that certain countries experienced a rise in the attention toward video games. To have a better understanding of these curves, we can group them following the clustering we did previously in the mobility context.
 
 ![Branching](pageviews_cluster.png)
 
