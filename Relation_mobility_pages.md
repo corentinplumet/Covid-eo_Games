@@ -27,7 +27,7 @@ For most of the countries, the lockdown is really a break in the mobility patter
 
 ![Branching](countries_cluster.png)
 
-There are 3 clear tendancies with very similar pattern. 
+There are 3 clear tendancies with very similar pattern. One group, had a very restrictive lockdown with a minium mobility around 70%-80% of what it was before the lockdown. The second group, had a restrictive lockdown with a minium mobility around 45% of what it was before the lockdown. The last group also experienced a lockdown but it was an unrestrictive one, leading to a small decrease in total mobility. 
 
 # Attention towards video games
 
