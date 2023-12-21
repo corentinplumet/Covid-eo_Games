@@ -6,5 +6,4 @@ description: Analysis of the evolution of interest in video games during the cov
 show_downloads: False
 navigation:
   - title: Relation mobility/interest
-    url: Relation_mobility_pages.md
-  
+    url: Relation_mobility_pages
