@@ -1,4 +1,4 @@
-remote_theme: "pages-themes/cayman@v0.5.1"
+theme: jekyll-theme-cayman
 title: Video games during Covid lockdown
 description: Analysis of the evolution of interest in video games during the covid period
 show_downloads: False
