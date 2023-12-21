@@ -1,10 +1,8 @@
 theme: jekyll-theme-minimal
 title: Video games during Covid lockdown
 description: Analysis of the evolution of interest in video games during the covid period
-show_downloads: True
+show_downloads: False
 navigation:
-  - title: Relationship between mobility patterns and traffic of video game Wikipedia pages.
-    url: Relation_mobility_pages
   - title: Example
     url: example
   
