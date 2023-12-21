@@ -1,8 +1,10 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Video games during Covid lockdown
 description: Analysis of the evolution of interest in video games during the covid period
 show_downloads: False
 navigation:
-  - title: Example
-    url: example
+  - title: Relation mobility/interest
+    url: Relation_mobility_pages.md
   
